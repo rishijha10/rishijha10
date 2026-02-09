@@ -1,23 +1,13 @@
 <h1 align="center">Hi, I'm Rishi Jha 👋</h1>
 <h3 align="center">Python/.NET Developer • AI Software Engineer (Backend) • Open Source Contributor</h3>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishijha10&label=Profile%20Views&color=0e75b6&style=flat" alt="rishijha10" />
 </p>
 
-
 # 💼 About Me
 
 - Backend/AI engineer passionate about building scalable services, agentic‑AI applications, and intelligent automation workflows with Python and cloud‑native tools.
-
-
-# 🌐 Connect With Me
-<!-- Add your own links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-here)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](your-twitter-here)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishijha10)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 # 🛠 Tech Stack
 
@@ -25,6 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### **Backend / AI**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -55,3 +46,8 @@
 ### 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rishijha10&theme=tokyonight&hide_border=false)
+
+# 🌐 Connect With Me
+<!-- Add your own links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-jha-20497821b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishijha10)
