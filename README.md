@@ -49,22 +49,8 @@
 
 # 📊 GitHub Stats
 
-<details>
-  <summary><h3>📈 View GitHub Stats</h3></summary>
+<h3>📈 View GitHub Stats</h3>
 
 <br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishijha10&show_icons=true&theme=tokyonight&hide_border=false)
-<br>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=rishijha10&theme=tokyonight&hide_border=false)
 <br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishijha10&layout=compact&theme=tokyonight&hide_border=false)
-
-</details>
-
-
-# 🐍 Contribution Snake
-<!-- Make sure your snake GitHub Action is configured -->
-<img src="https://raw.githubusercontent.com/rishijha10/rishijha10/output/github-contribution-grid-snake.svg" />
