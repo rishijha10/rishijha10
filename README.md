@@ -9,11 +9,7 @@
 
 # 💼 About Me
 
-- 🔭 I’m focusing on **backend development & open‑source contributions**
-- 🌱 Currently learning **FastAPI, LangChain, Docker, and systems design**
-- 💬 Ask me about **Python, Backend, APIs, and Automation**
-- 📫 Reach me at: **(add your email here if you want)**
-- ⚡ Fun fact: *Clean code is underrated—but life‑saving.*
+- Backend/AI engineer passionate about building scalable services, agentic‑AI applications, and intelligent automation workflows with Python and cloud‑native tools.
 
 
 # 🌐 Connect With Me
@@ -47,10 +43,6 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<h3>📈 View GitHub Stats</h3>
-
-<br>
 ![GitHub Streak](https://streak-stats.demolab.com?user=rishijha10&theme=tokyonight&hide_border=false)
-<br>
